@@ -10,6 +10,7 @@ I use AI-assisted tools within a human-owned engineering process: explicit scope
 
 ## Selected engineering work
 
+- **[Equipment Service Desk](https://github.com/wouthh/equipment-service-desk)**: A synthetic PHP/Symfony backend demonstrating policy-based triage, authorized workflows, conflict-safe updates, transactional persistence, and asynchronous reports.
 - **[Engineering portfolio](https://github.com/wouthh/engineering-portfolio)** — Architecture, trade-offs, testing, security, and delivery lessons from domain systems, modular platforms, and local-first data.
 - **[AI-assisted engineering playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)** — Reusable templates, repository safeguards, tested utilities, and a complete fictional delivery example.
 - **[Local-first reconciliation](https://github.com/wouthh/hardcore-radio-logger)** — A current Python and SQLite project using provenance, dry-run planning, guarded synchronization, and conservative failure handling.
