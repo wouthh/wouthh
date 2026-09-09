@@ -30,7 +30,7 @@ The linked case studies use sanitized architecture, synthetic examples, and orig
 
 ## Availability and contact
 
-Open to remote roles and employer-supported relocation.
+Fully remote preferred. Open to employer-supported relocation, including hybrid roles.
 
 Working languages: Dutch, English, French, and Spanish.
 
