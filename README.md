@@ -1,32 +1,27 @@
 # Wout
 
-Backend-focused full-stack engineer building reliable domain systems, APIs, and data workflows.
+Backend-focused engineer working on PHP/Symfony services, configurable business workflows, APIs, data quality, and delivery.
 
-I work across PHP/Symfony, TypeScript/Node.js, Java/Kotlin, and Python. My focus is evolving business rules safely, designing secure integrations, and delivering changes with tests, static analysis, migrations, rollback plans, and production-minded verification.
-
-Building personal software since 2013. My public work combines current inspectable code, sanitized engineering case studies, and reusable AI-assisted engineering practices.
-
-I use AI-assisted tools within a human-owned engineering process: explicit scope, repository safeguards, tests, security checks, review, and evidence-backed acceptance.
+My professional experience includes PHP/Symfony and API Platform services, configurable insurer-specific workflows, Doctrine and PostgreSQL reporting, regression testing, access control, and delivery verification. I also work with TypeScript, Java/Kotlin, and Python.
 
 ## Selected engineering work
 
-- **[Equipment Service Desk](https://github.com/wouthh/equipment-service-desk)**: A synthetic PHP/Symfony backend demonstrating policy-based triage, authorized workflows, conflict-safe updates, transactional persistence, and asynchronous reports.
-- **[Engineering portfolio](https://github.com/wouthh/engineering-portfolio)** — Architecture, trade-offs, testing, security, and delivery lessons from domain systems, modular platforms, and local-first data.
-- **[AI-assisted engineering playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)** — Reusable templates, repository safeguards, tested utilities, and a complete fictional delivery example.
-- **[Local-first reconciliation](https://github.com/wouthh/hardcore-radio-logger)** — A current Python and SQLite project using provenance, dry-run planning, guarded synchronization, and conservative failure handling.
+1. **[Engineering Portfolio](https://github.com/wouthh/engineering-portfolio)** — An anonymized professional backend case study, with other experience and general design guidance clearly distinguished.
+2. **[Hardcore Radio Logger](https://github.com/wouthh/hardcore-radio-logger)** — Python and SQLite radio-library reconciliation with provenance, dry-run planning, and guarded synchronization.
+3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)** — Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks, and review.
+4. **[G-Earth Trade Assistant](https://github.com/wouthh/g-earth-trade-assistant)** — Java/Swing extension for Habbo Origins through G-Earth, with serialized bronze conversion, cancellation, and recovery safeguards.
 
-## Core engineering strengths
+These descriptions summarize project behaviour. They do not establish who personally designed, reviewed, or validated every implementation.
 
-- Domain backends, evolving business rules, APIs, and asynchronous processing.
-- Data modelling, persistence, ETL, reporting, reconciliation, and migrations.
-- Authentication, authorization, secure integrations, and failure-closed behavior.
-- Testing, static analysis, CI/CD, rollback, smoke testing, and production diagnosis.
+## Engineering focus
 
-I am most at home in backend work where correctness spans code, configuration, persisted state, and delivery. That includes PHP, Symfony, Doctrine, and PostgreSQL as a primary stack, with broader work across TypeScript services, JVM systems, Python tooling, relational and document databases, containers, and cloud delivery.
+- Backend services, REST APIs, configurable workflows, and asynchronous processing.
+- Doctrine models and migrations, PostgreSQL reporting, and data reconciliation.
+- Authentication, authorization, regression testing, static analysis, and delivery verification.
+- Broader experience across TypeScript services and interfaces, JVM applications, and Python tools.
 
-I prefer explicit system boundaries, small reviewable changes, and evidence that matches the claim being made. In practice, that means tracing a rule across its consumers, testing failure paths, separating configuration from authority, and treating rollout, observability, and recovery as part of the implementation.
+My professional backend case study describes the responsibilities supported by my approved experience. Other pages label public-code evidence, generalized guidance, and their limits. Automated checks, agent review, and human inspection are described separately where evidence supports them.
 
-The linked case studies use sanitized architecture, synthetic examples, and original diagrams. They describe real engineering decisions without publishing proprietary source, operational data, or identifying organization details.
 
 ## Availability and contact
 
