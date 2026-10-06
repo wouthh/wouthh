@@ -1,8 +1,10 @@
 # Wout
 
-Full-stack software engineer with a backend focus, building Java/PHP services, React and Vue/Nuxt interfaces, APIs and data workflows.
+Full-stack software engineer building PHP/Symfony and Java/Spring Boot backends, APIs and PostgreSQL data workflows.
 
-My professional experience includes PHP/Symfony and API Platform services, configurable insurer-specific workflows, Doctrine and PostgreSQL reporting, regression testing, access control, and delivery verification. I also work with TypeScript, Java/Kotlin, and Python.
+My frontend work includes React and Vue/Nuxt applications using JavaScript and TypeScript. I work across automated testing, access security, CI/CD and production diagnostics, and also build Python and TypeScript tools.
+
+I design and maintain repository-specific AI-assisted engineering workflows with OpenAI Codex and GitHub Copilot, orchestrating coding agents across implementation, automated testing and pull-request review. I define task scope, validation checks and acceptance criteria to support efficient delivery while keeping changes bounded, testable and reviewable.
 
 ## Selected engineering work
 
@@ -11,17 +13,7 @@ My professional experience includes PHP/Symfony and API Platform services, confi
 3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)** — Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks, and review.
 4. **[G-Earth Trade Assistant](https://github.com/wouthh/g-earth-trade-assistant)** — Java/Swing extension for Habbo Origins through G-Earth, with serialized bronze conversion, cancellation, and recovery safeguards.
 
-These descriptions summarize project behaviour. They do not establish who personally designed, reviewed, or validated every implementation.
-
-## Engineering focus
-
-- Backend services, REST APIs, configurable workflows, and asynchronous processing.
-- Doctrine models and migrations, PostgreSQL reporting, and data reconciliation.
-- Authentication, authorization, regression testing, static analysis, and delivery verification.
-- Broader experience across TypeScript services and interfaces, JVM applications, and Python tools.
-
-My professional backend case study describes the responsibilities supported by my approved experience. Other pages label public-code evidence, generalized guidance, and their limits. Automated checks, agent review, and human inspection are described separately where evidence supports them.
-
+The portfolio distinguishes professional contributions, project behaviour and illustrative guidance. Individual project documentation records relevant provenance and limitations.
 
 ## Availability and contact
 
