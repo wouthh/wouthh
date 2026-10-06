@@ -1,6 +1,6 @@
 # Wout
 
-Backend-focused engineer working on PHP/Symfony services, configurable business workflows, APIs, data quality, and delivery.
+Full-stack software engineer with a backend focus, building Java/PHP services, React and Vue/Nuxt interfaces, APIs and data workflows.
 
 My professional experience includes PHP/Symfony and API Platform services, configurable insurer-specific workflows, Doctrine and PostgreSQL reporting, regression testing, access control, and delivery verification. I also work with TypeScript, Java/Kotlin, and Python.
 
