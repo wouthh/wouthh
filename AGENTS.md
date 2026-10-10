@@ -29,7 +29,7 @@ Keep the six selected-work entries and the intended profile-pin order exactly as
 | 3 | `wouthh/ai-assisted-engineering-playbook` | Demonstrates Wout's repository-specific approach to scoping, validation and review in AI-assisted software delivery. |
 | 4 | `wouthh/g-earth-facts` | Offers an approachable Java/Swing utility with API integration, byte-aware delivery, pacing and cancellation. |
 | 5 | `wouthh/g-earth-trade-assistant` | Adds Java integration depth through serialized operations, cancellation and recovery safeguards. |
-| 6 | `wouthh/discord-context-bridge` | Broadens the selection with TypeScript backend interfaces, scoped HTTP/MCP reads, authentication, SQLite retention and bounded ingestion. |
+| 6 | `wouthh/vesktop-presence-guard` | Adds TypeScript and Linux desktop integration through GNOME/Mutter activity and PipeWire camera detection, guarded asynchronous status updates, recovery and local diagnostics. Complements the backend projects with an understandable desktop utility. |
 
 - Keep README descriptions short and focused on supported project behaviour. Do not add routine "work in progress" labels or a maturity ranking to the profile.
 - Omitting a status label does not authorize claims of production readiness, live deployment, verified integrations or completion. Leave detailed validation and operating requirements in the project documentation; preserve accurate qualifications when a concrete claim requires them.
