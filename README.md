@@ -8,12 +8,14 @@ I design and maintain repository-specific AI-assisted engineering workflows with
 
 ## Selected engineering work
 
-1. **[Engineering Portfolio](https://github.com/wouthh/engineering-portfolio)** — An anonymized professional backend case study, with other experience and general design guidance clearly distinguished.
-2. **[Hardcore Radio Logger](https://github.com/wouthh/hardcore-radio-logger)** — Python and SQLite radio-library reconciliation with provenance, dry-run planning, and guarded synchronization.
-3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)** — Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks, and review.
-4. **[G-Earth Trade Assistant](https://github.com/wouthh/g-earth-trade-assistant)** — Java/Swing extension for Habbo Origins through G-Earth, with serialized bronze conversion, cancellation, and recovery safeguards.
+1. **[Engineering Portfolio](https://github.com/wouthh/engineering-portfolio)**: An anonymized professional backend case study, with other experience and general design guidance clearly distinguished.
+2. **[Hardcore Radio Logger](https://github.com/wouthh/hardcore-radio-logger)**: Python and SQLite radio-library reconciliation with provenance, dry-run planning and guarded synchronization.
+3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)**: Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks and review.
+4. **[G-Earth Facts](https://github.com/wouthh/g-earth-facts)**: Java/Swing extension sharing scheduled facts in Habbo Origins, with API integration, configurable prefixes and cancellable, paced message delivery.
+5. **[G-Earth Trade Assistant](https://github.com/wouthh/g-earth-trade-assistant)**: Java/Swing extension for Habbo Origins through G-Earth, with serialized bronze conversion, cancellation and recovery safeguards.
+6. **[Discord Context Bridge](https://github.com/wouthh/discord-context-bridge)**: TypeScript Discord context connector with scoped read-only HTTP/MCP access, SQLite retention and bounded ingestion.
 
-The portfolio distinguishes professional contributions, project behaviour and illustrative guidance. Individual project documentation records relevant provenance and limitations.
+This selection connects professional backend experience with practical automation, AI-assisted delivery and Java/TypeScript integrations. Individual project documentation records provenance, validation and operating requirements.
 
 ## Availability and contact
 
