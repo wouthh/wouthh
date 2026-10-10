@@ -17,7 +17,7 @@ The portfolio distinguishes professional contributions, project behaviour and il
 
 ## Availability and contact
 
-Fully remote preferred. Open to employer-supported relocation, including hybrid roles.
+Open to employment and freelance/contract software development engagements. Fully remote preferred. Open to employer-supported relocation, including hybrid roles.
 
 Working languages: Dutch, English, French, and Spanish.
 
