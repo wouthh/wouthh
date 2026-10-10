@@ -13,9 +13,9 @@ I design and maintain repository-specific AI-assisted engineering workflows with
 3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)**: Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks and review.
 4. **[G-Earth Facts](https://github.com/wouthh/g-earth-facts)**: Java/Swing extension sharing scheduled facts in Habbo Origins, with API integration, configurable prefixes and cancellable, paced message delivery.
 5. **[G-Earth Trade Assistant](https://github.com/wouthh/g-earth-trade-assistant)**: Java/Swing extension for Habbo Origins through G-Earth, with serialized bronze conversion, cancellation and recovery safeguards.
-6. **[Discord Context Bridge](https://github.com/wouthh/discord-context-bridge)**: TypeScript Discord context connector with scoped read-only HTTP/MCP access, SQLite retention and bounded ingestion.
+6. **[Vesktop PresenceGuard](https://github.com/wouthh/vesktop-presence-guard)**: TypeScript Vencord plugin for Vesktop on Linux GNOME, with desktop idle and camera detection, guarded presence automation and local diagnostics.
 
-This selection connects professional backend experience with practical automation, AI-assisted delivery and Java/TypeScript integrations. Individual project documentation records provenance, validation and operating requirements.
+This selection connects professional backend experience with practical automation, AI-assisted delivery, Java integrations and TypeScript/Linux desktop tooling. Individual project documentation records provenance, validation and operating requirements.
 
 ## Availability and contact
 
