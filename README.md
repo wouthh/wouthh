@@ -12,10 +12,10 @@ I design and maintain repository-specific AI-assisted engineering workflows with
 2. **[Hardcore Radio Logger](https://github.com/wouthh/hardcore-radio-logger)**: Python and SQLite radio-library reconciliation with provenance, dry-run planning and guarded synchronization.
 3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)**: Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks and review.
 4. **[G-Earth Facts](https://github.com/wouthh/g-earth-facts)**: Java/Swing extension sharing scheduled facts in Habbo Origins, with API integration, configurable prefixes and cancellable, paced message delivery.
-5. **[G-Earth Trade Assistant](https://github.com/wouthh/g-earth-trade-assistant)**: Java/Swing extension for Habbo Origins through G-Earth, with serialized bronze conversion, cancellation and recovery safeguards.
-6. **[Vesktop PresenceGuard](https://github.com/wouthh/vesktop-presence-guard)**: TypeScript Vencord plugin for Vesktop on Linux GNOME, with desktop idle and camera detection, guarded presence automation and local diagnostics.
+5. **[Vesktop PresenceGuard](https://github.com/wouthh/vesktop-presence-guard)**: TypeScript Vencord plugin for Vesktop on Linux GNOME, with desktop idle and camera detection, guarded presence automation and local diagnostics.
+6. **[Fedora OMEN Tools](https://github.com/wouthh/fedora-omen-tools)**: Python and Bash tooling for guarded Fedora offline updates and HP OMEN fan supervision, with ownership-checked recovery and isolated regression tests.
 
-This selection connects professional backend experience with practical automation, AI-assisted delivery, Java integrations and TypeScript/Linux desktop tooling. Individual project documentation records provenance, validation and operating requirements.
+This selection connects professional backend experience with practical automation, AI-assisted delivery, Java integration and TypeScript/Linux desktop and system tooling. Individual project documentation records provenance, validation and operating requirements.
 
 ## Availability and contact
 
