@@ -4,7 +4,7 @@ Full-stack software engineer building PHP/Symfony and Java/Spring Boot backends,
 
 My frontend work includes React and Vue/Nuxt applications using JavaScript and TypeScript. I work across automated testing, access security, CI/CD and production diagnostics, and also build Python and TypeScript tools.
 
-I design and maintain repository-specific AI-assisted engineering workflows with OpenAI Codex and GitHub Copilot, orchestrating coding agents across implementation, automated testing and pull-request review. I define task scope, validation checks and acceptance criteria to support efficient delivery while keeping changes bounded, testable and reviewable.
+I design and maintain repository-specific AI-assisted engineering workflows, primarily with Claude Code alongside OpenAI Codex, orchestrating coding agents across implementation, automated testing and pull-request review. I define task scope, validation checks and acceptance criteria to support efficient delivery while keeping changes bounded, testable and reviewable.
 
 ## Selected engineering work
 
