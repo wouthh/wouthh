@@ -24,7 +24,7 @@ Keep the six selected-work entries and the intended profile-pin order exactly as
 
 | Order | Repository | Reason for inclusion |
 |---:|---|---|
-| 1 | `wouthh/engineering-portfolio` | Leads with professional backend experience: an anonymized case study of Wout's responsibilities and technical decisions, with related engineering notes and clearly labelled general design guidance kept separate. |
+| 1 | `wouthh/engineering-portfolio` | Leads with professional backend experience: anonymized first-person case studies of Wout's responsibilities and technical decisions, plus the decisions behind his personal projects. |
 | 2 | `wouthh/hardcore-radio-logger` | Shows practical Python/SQLite automation, reconciliation, provenance and guarded synchronization. |
 | 3 | `wouthh/ai-assisted-engineering-playbook` | Demonstrates Wout's repository-specific approach to scoping, validation and review in AI-assisted software delivery. |
 | 4 | `wouthh/g-earth-facts` | Offers an approachable Java/Swing utility with API integration, byte-aware delivery, pacing and cancellation. |
