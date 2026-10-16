@@ -8,18 +8,18 @@ I design and maintain repository-specific AI-assisted engineering workflows, pri
 
 ## Selected engineering work
 
-1. **[Engineering Portfolio](https://github.com/wouthh/engineering-portfolio)**: An anonymized professional backend case study, with other experience and general design guidance clearly distinguished.
+1. **[Engineering Portfolio](https://github.com/wouthh/engineering-portfolio)**: Anonymized case studies of my professional backend work and the technical decisions behind my personal projects.
 2. **[Hardcore Radio Logger](https://github.com/wouthh/hardcore-radio-logger)**: Python and SQLite radio-library reconciliation with provenance, dry-run planning and guarded synchronization.
 3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)**: Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks and review.
 4. **[G-Earth Facts](https://github.com/wouthh/g-earth-facts)**: Java/Swing extension sharing scheduled facts in Habbo Origins, with API integration, configurable prefixes and cancellable, paced message delivery.
-5. **[Vesktop PresenceGuard](https://github.com/wouthh/vesktop-presence-guard)**: TypeScript Vencord plugin for Vesktop on Linux GNOME, with desktop idle and camera detection, guarded presence automation and local diagnostics.
-6. **[Discord Context Bridge](https://github.com/wouthh/discord-context-bridge)**: TypeScript connector giving authorized applications read-only, scoped Discord context through authenticated HTTP and MCP, with SQLite storage, retention and synthetic authorization tests.
+5. **[Discord Context Bridge](https://github.com/wouthh/discord-context-bridge)**: TypeScript service that ingests Discord context through the official bot API and gives authorized applications read-only, scoped access through authenticated HTTP and MCP, with SQLite retention and tombstones.
+6. **[Vesktop PresenceGuard](https://github.com/wouthh/vesktop-presence-guard)**: TypeScript Vencord plugin for Vesktop on Linux GNOME, with desktop idle and camera detection, guarded presence automation and local diagnostics.
 
-This selection connects professional backend experience with practical automation, AI-assisted delivery, Java integration and TypeScript desktop and integration tooling. Individual project documentation records provenance, validation and operating requirements.
+This selection connects professional backend experience with practical automation, AI-assisted delivery, Java integration and TypeScript integration and desktop tooling. Each repository documents how to run and validate it.
 
 ## Availability and contact
 
-Open to employment and freelance/contract software development engagements. Fully remote preferred. Open to employer-supported relocation, including hybrid roles.
+Available for a new role from November 2026. Open to employment and freelance/contract software development engagements. Fully remote preferred. Open to employer-supported relocation, including hybrid roles.
 
 Working languages: Dutch, English, French, and Spanish.
 
