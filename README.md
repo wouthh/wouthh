@@ -8,7 +8,7 @@ I design and maintain repository-specific AI-assisted engineering workflows, pri
 
 ## Selected engineering work
 
-1. **[Engineering Portfolio](https://github.com/wouthh/engineering-portfolio)**: Anonymized case studies of my professional backend work and of the systems I designed and built on my own.
+1. **[Engineering Portfolio](https://github.com/wouthh/engineering-portfolio)**: Anonymized case studies of my professional backend work and of the design decisions behind my personal projects.
 2. **[Hardcore Radio Logger](https://github.com/wouthh/hardcore-radio-logger)**: Python and SQLite radio-library reconciliation with provenance, dry-run planning and guarded synchronization.
 3. **[AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook)**: Reusable instructions and tested utilities for scoped AI-assisted implementation, automated checks and review.
 4. **[G-Earth Facts](https://github.com/wouthh/g-earth-facts)**: Java/Swing extension sharing scheduled facts in Habbo Origins, with API integration, configurable prefixes and cancellable, paced message delivery.
