@@ -8,9 +8,9 @@ I build repository-specific agent workflows, a review loop and guard tooling, pu
 
 ## Professional highlights
 
-- I added OpenID Connect bearer-token authentication to a claims platform's API, and it runs in production for several insurers. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
+- I adapted a claims platform's API authenticator to accept Keycloak-issued OpenID Connect bearer tokens, and this runs in production for several insurers. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
 - I store rule outcomes as stable codes and resolve insurer wording only at presentation, so a wording change can never change a stored decision. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
-- Before a hotfix release, I rehearsed the full pending migration sequence against an isolated restore of a production backup. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
+- Before a hotfix release, I ran the full pending migration sequence against an isolated restore of a production backup. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
 
 ## Selected engineering work
 
