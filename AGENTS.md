@@ -14,7 +14,7 @@ This repository controls the public GitHub profile README for `wouthh`.
 
 - Lead with software engineering: PHP/Symfony and Java/Spring Boot backends, APIs and PostgreSQL workflows, supported by React and Vue/Nuxt frontend experience.
 - Preserve the distinction between AI-assisted engineering workflows and projects that implement AI-facing integrations. Do not describe every project as an AI agent or claim autonomous production operation.
-- Preserve the existing technical introduction and specific workflow-engineering paragraph unless Wout requests a change.
+- Keep the introduction in this shape: a backend-focused full-stack opening with the core stack, one frontend and testing paragraph, and a two-sentence AI-workflow paragraph linking the playbook. Follow it with a Professional highlights section of two or three bullets that repeat only claims the portfolio's Evolving Domain Rules case study makes, each linking to it.
 - Keep employment and freelance/contract engagements equally eligible in the availability paragraph without replacing the primary software-engineer identity with a freelancer label.
 - Retain the existing fully remote preference, employer-supported relocation wording and four working languages. Do not add registration identifiers or administrative business details.
 
@@ -29,13 +29,12 @@ Keep the six selected-work entries and the intended profile-pin order exactly as
 | 3 | `wouthh/ai-assisted-engineering-playbook` | Demonstrates Wout's repository-specific approach to scoping, validation and review in AI-assisted software delivery. |
 | 4 | `wouthh/g-earth-facts` | Offers an approachable Java/Swing utility with API integration, byte-aware delivery, pacing and cancellation. |
 | 5 | `wouthh/discord-context-bridge` | Adds TypeScript service and integration work: a single-owner, read-only service that ingests Discord context through the official bot API and exposes it through authenticated HTTP and remote MCP, with SQLite retention, tombstones and synthetic authorization tests. Complements the workflow playbook with a project that implements an AI-facing integration. |
-| 6 | `wouthh/vesktop-presence-guard` | Adds TypeScript and Linux desktop integration through GNOME/Mutter activity and PipeWire camera detection, guarded asynchronous status updates, recovery and local diagnostics. Placeholder until the PHP/Symfony reference project exists. |
-
-Planned: a public PHP/Symfony reference project (API Platform, PostgreSQL, Doctrine migrations, security voters, PHPUnit) takes slot 6 once it exists, because Wout's core stack has no public code yet. Vesktop PresenceGuard then leaves the selection.
+| 6 | `wouthh/vesktop-presence-guard` | Adds TypeScript and Linux desktop integration through GNOME/Mutter activity and PipeWire camera detection, guarded asynchronous status updates, recovery and local diagnostics. |
 
 - Keep README descriptions short and focused on supported project behaviour. Do not add routine "work in progress" labels or a maturity ranking to the profile.
 - Select projects using supported personal contribution, not visibility, activity, language coverage, size, or tests alone. Describe only behaviour the public source supports.
 - Do not imply production use, live deployment or completion that a project's README does not state.
 - Do not link or pin Equipment Service Desk.
+- Do not propose or create a synthetic PHP/Symfony reference repository; professional PHP/Symfony work is presented through the portfolio case study.
 - Updating the README does not update GitHub's actual pins. Treat pin changes as a separate UI operation requiring task scope, and never claim the saved pin order was verified from README text.
 - Keep existing privacy and README-only contact rules. This selection does not authorize schedule, worker-scope, CV or LinkedIn changes.

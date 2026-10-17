@@ -1,10 +1,16 @@
 # Wout
 
-Full-stack software engineer building PHP/Symfony and Java/Spring Boot backends, APIs and PostgreSQL data workflows.
+Backend-focused full-stack engineer building PHP/Symfony and Java/Spring Boot backends, APIs and PostgreSQL data workflows.
 
 My frontend work includes React and Vue/Nuxt applications using JavaScript and TypeScript. I work across automated testing, access security, CI/CD and production diagnostics, and also build Python and TypeScript tools.
 
-I design and maintain repository-specific AI-assisted engineering workflows, primarily with Claude Code alongside OpenAI Codex, orchestrating coding agents across implementation, automated testing and pull-request review. I define task scope, validation checks and acceptance criteria to support efficient delivery while keeping changes bounded, testable and reviewable.
+I build repository-specific agent workflows, a review loop and guard tooling, published in my [AI-Assisted Engineering Playbook](https://github.com/wouthh/ai-assisted-engineering-playbook). I keep scope, validation and merge decisions, and agents do bounded implementation.
+
+## Professional highlights
+
+- I added OpenID Connect bearer-token authentication to a claims platform's API, and it runs in production for several insurers. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
+- I store rule outcomes as stable codes and resolve insurer wording only at presentation, so a wording change can never change a stored decision. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
+- Before a hotfix release, I rehearsed the full pending migration sequence against an isolated restore of a production backup. ([case study](https://github.com/wouthh/engineering-portfolio/blob/main/case-studies/evolving-domain-rules.md))
 
 ## Selected engineering work
 
@@ -14,8 +20,6 @@ I design and maintain repository-specific AI-assisted engineering workflows, pri
 4. **[G-Earth Facts](https://github.com/wouthh/g-earth-facts)**: Java/Swing extension sharing scheduled facts in Habbo Origins, with API integration, configurable prefixes and cancellable, paced message delivery.
 5. **[Discord Context Bridge](https://github.com/wouthh/discord-context-bridge)**: TypeScript service that ingests Discord context through the official bot API and gives authorized applications read-only, scoped access through authenticated HTTP and MCP, with SQLite retention and tombstones.
 6. **[Vesktop PresenceGuard](https://github.com/wouthh/vesktop-presence-guard)**: TypeScript Vencord plugin for Vesktop on Linux GNOME, with desktop idle and camera detection, guarded presence automation and local diagnostics.
-
-This selection connects professional backend experience with practical automation, AI-assisted delivery, Java integration and TypeScript integration and desktop tooling. Each repository documents how to run and validate it.
 
 ## Availability and contact
 
