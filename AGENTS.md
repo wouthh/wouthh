@@ -34,8 +34,7 @@ Keep the six selected-work entries and the intended profile-pin order exactly as
 Planned: a public PHP/Symfony reference project (API Platform, PostgreSQL, Doctrine migrations, security voters, PHPUnit) takes slot 6 once it exists, because Wout's core stack has no public code yet. Vesktop PresenceGuard then leaves the selection.
 
 - Keep README descriptions short and focused on supported project behaviour. Do not add routine "work in progress" labels or a maturity ranking to the profile.
-- Omitting a status label does not authorize claims of production readiness, live deployment, verified integrations or completion. Leave detailed validation and operating requirements in the project documentation; preserve accurate qualifications when a concrete claim requires them.
-- Select projects using supported personal contribution, not visibility, activity, language coverage, size, or tests alone. Describe public project behaviour separately from personal design, implementation, review, or live validation.
+- Select projects using supported personal contribution, not visibility, activity, language coverage, size, or tests alone. Describe only behaviour the public source supports.
 - Do not link or pin Equipment Service Desk.
 - Updating the README does not update GitHub's actual pins. Treat pin changes as a separate UI operation requiring task scope, and never claim the saved pin order was verified from README text.
 - Keep existing privacy and README-only contact rules. This selection does not authorize schedule, worker-scope, CV or LinkedIn changes.
