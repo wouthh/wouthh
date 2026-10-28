@@ -23,7 +23,7 @@ I build repository-specific agent workflows, a review loop and guard tooling, pu
 
 ## Availability and contact
 
-Available for a new role from November 2026. Open to employment and freelance/contract software development engagements. Fully remote preferred. Open to employer-supported relocation, including hybrid roles.
+Available for a new role from December 2026. Open to employment and freelance/contract software development engagements. Fully remote preferred. Open to employer-supported relocation, including hybrid roles.
 
 Working languages: Dutch, English, French, and Spanish.
 
